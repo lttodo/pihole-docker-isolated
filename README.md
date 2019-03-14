@@ -1,5 +1,5 @@
 # pihole-docker-isolated
-Setup script to install pihole to a docker container, running on its own ip.
+Setup script to install pihole to a docker container, running on its own IP.
 
 I use this to create and run a pihole on my NAS.
 
